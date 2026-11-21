@@ -78,5 +78,5 @@ to a warship, and the war around you escalates as everyone fights.
 
 </div>
 
-Found a mistake on this wiki, or something in game that doesn't match it? Tell the mod author on the Workshop page
-or in Discord.
+Found a mistake on this wiki, or something in game that doesn't match it? Tell the mod author in the comments on
+the Workshop page.
