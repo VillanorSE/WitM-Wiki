@@ -1,0 +1,22 @@
+/* Mediterranean navy with a desert-sand accent */
+:root, [data-md-color-scheme="default"] {
+  --md-primary-fg-color: #1f3a5f;
+  --md-primary-fg-color--light: #2c5282;
+  --md-primary-fg-color--dark: #14263f;
+  --md-accent-fg-color: #b7791f;
+}
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #1a2f4d;
+  --md-primary-fg-color--light: #2c4a75;
+  --md-primary-fg-color--dark: #0f1d31;
+  --md-accent-fg-color: #e0b05c;
+  --md-default-bg-color: #151a22;
+  --md-typeset-a-color: #e0b05c;
+}
+[data-md-color-scheme="default"] { --md-typeset-a-color: #2c5282; }
+.gray-side { color: #6b7280; font-weight: 600; }
+.green-side { color: #3f7d3a; font-weight: 600; }
+[data-md-color-scheme="slate"] .gray-side { color: #a3a9b4; }
+[data-md-color-scheme="slate"] .green-side { color: #7fbf78; }
+.md-typeset .grid.cards > ul > li { border-radius: 6px; }
+.md-typeset table:not([class]) { font-size: 0.72rem; }
