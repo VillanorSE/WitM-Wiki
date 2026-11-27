@@ -36,4 +36,4 @@ once no player is within 1 km. Disabled vehicles are a good source of salvage, o
 
 ## Bots
 
-Installations carry crews of AiEnabled bots. The Manufactory, battleship and carriers carry the biggest crews (10).
+Installations carry crews of AiEnabled bots. The Manufactory, battleship, and carriers carry the biggest crews (10).

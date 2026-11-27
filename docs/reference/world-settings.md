@@ -3,7 +3,7 @@
 !!! abstract "Quick facts"
     - World speed cap **150 m/s** through Relative Top Speed; each Ship Core sets its own share of it.
     - Ship Core Framework is on; NPC grids are exempt from its limits.
-    - Vanilla encounters, cargo ships and planetary installations are switched off.
+    - Vanilla encounters, cargo ships, and planetary installations are switched off.
     - Respawn: Fiat 626 or Renault AHN truck, 15-minute cooldown each.
 
 ## Relative Top Speed
@@ -29,7 +29,7 @@ World drag is raised so planes slow down without thrust.
 ## Reputation
 
 - Gray and Green are non-static factions with no starting reputation.
-- Vanilla reputation for damaging, grinding, stealing and killing is zero; the scenario's own rules apply
+- Vanilla reputation for damaging, grinding, stealing, and killing is zero; the scenario's own rules apply
   ([Factions and Sides](../world/factions.md#reputation)).
 
 ## AllianceRepHelper

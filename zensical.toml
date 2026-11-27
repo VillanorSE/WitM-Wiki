@@ -25,7 +25,7 @@ nav = [
     { "In the Air" = "encounters/air.md" },
     { "On the Ground" = "encounters/ground.md" },
   ] },
-  { "Ships, vehicles and combat" = [
+  { "Ships, vehicles, and combat" = [
     { "Ship Cores and Block Limits" = "combat/ship-cores.md" },
     { "Weapons" = "combat/weapons.md" },
     { "Capturing Vehicles" = "combat/capturing.md" },

@@ -1,7 +1,7 @@
 # Salvage and Special Components
 
 !!! abstract "Quick facts"
-    - Three **special components** gate progression: **Industrial**, **Military** and **Advanced Military**.
+    - Three **special components** gate progression: **Industrial**, **Military**, and **Advanced Military**.
     - They can't be bought or looted directly. You assemble them from **Salvage Alloy** plus ordinary ingots.
     - Salvage Alloy is refined from **Battle Wreckage**, which you loot from wrecks and destroyed NPC grids.
     - **Salvaged Ordnance** is looted from bigger kills and is needed for the heaviest naval ammunition.
@@ -26,7 +26,7 @@ Times are base times before refinery and assembler speed.
 
 | Source | Battle Wreckage | Salvaged Ordnance |
 |---|---|---|
-| Wrecked Golos, corvettes and destroyers on the coasts | Yes | Bigger wrecks |
+| Wrecked Golos, corvettes, and destroyers on the coasts | Yes | Bigger wrecks |
 | Destroyed NPC grids (cargo holds) | Yes | Medium-sized grids and up |
 | Port Goods stores | No | Bought and sold, base 1,500 |
 

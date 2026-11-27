@@ -4,7 +4,7 @@
     - Every vehicle is a replica of a real Italian or French design of 1940 to 1943.
     - Prices below are **base prices**. Stores sell at 115 to 135% of base, adjusted by the site's supply
       ([Stores and Prices](../economy/stores.md)).
-    - "From" is the War Level at which the vehicle starts appearing in garages, factories and spawns. Depots currently
+    - "From" is the War Level at which the vehicle starts appearing in garages, factories, and spawns. Depots currently
       sell their side's whole ground list.
 
 ## Ground

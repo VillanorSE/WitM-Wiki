@@ -4,7 +4,7 @@ War in the Mediterranean is made by **VillanorSE**.
 
 ## Inspiration
 
-- **GV: Deserts of Kharak** by Mike Dude, for its salvage economy, store setup and this wiki's format.
+- **GV: Deserts of Kharak** by Mike Dude, for its salvage economy, store setup, and this wiki's format.
 - **Ares at War** by Cpt Arthur, for its territory and capture model and its reputation system.
 
 ## Built on

@@ -23,9 +23,9 @@
 |---|---|
 | `/assist server on` / `off` | Turn Flight Assist on or off for everyone. |
 | `/witm refresh` | Dry run: what a refresh of the permanent installations would do. Changes nothing. |
-| `/witm refresh go [all\|ports\|airfields\|depots\|<site>]` | Replace the live port, airfield or depot grids with fresh spawns, one site at a time. Sites with player grids or players nearby are skipped. |
+| `/witm refresh go [all\|ports\|airfields\|depots\|<site>]` | Replace the live port, airfield, or depot grids with fresh spawns, one site at a time. Sites with player grids or players nearby are skipped. |
 | `/witm refresh status` / `cancel` | Progress of a running refresh, or stop it. |
-| `/witm supply` | Table of every port, airfield and depot: stock, band, owner and convoy routes. |
+| `/witm supply` | Table of every port, airfield, and depot: stock, band, owner, and convoy routes. |
 | `/witm supply set <site> <n>` | Set a site's Home stock. |
 | `/witm supply onward <site> <n>` | Set a port's Onward stock. |
 | `/witm supply hour` | Run one hourly supply tick now. |

@@ -10,7 +10,7 @@
 
 The G menu is reorganised when the world loads. Tabs, in order:
 
-Ship Cores · Weapons: Naval · Weapons: Ground · Weapons: Air & AA · Armor (4, 12, 25, 50, 75 and 100 mm) ·
+Ship Cores · Weapons: Naval · Weapons: Ground · Weapons: Air & AA · Armor (4, 12, 25, 50, 75, and 100 mm) ·
 Aircraft Parts · Ground Vehicle Parts · Naval Parts · Cockpits & Seats · Engines & Power · Optics & Electronics ·
 Logistics · Lights & Doors · Decor & Structure · Production & Utility · Other
 

@@ -48,5 +48,5 @@ From WL5 destroyers also spawn as same-type pairs.
   V-156-F torpedo bombers from the Béarn.
 - Their guns are WeaponCore weapons from the Fletcher and Terran Titans naval packs.
 
-Warships score heavily: sinking one costs its side reputation, territory and War Activity in proportion to its size
+Warships score heavily: sinking one costs its side reputation, territory, and War Activity in proportion to its size
 ([Territory and War Level](../world/territory-war-level.md)).

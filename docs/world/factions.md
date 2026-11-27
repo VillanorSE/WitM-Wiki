@@ -26,7 +26,7 @@ New player factions start hostile to both sides. Your faction leader types `/all
 
 Allied standing lets you:
 
-- buy and sell at that side's ports, airfields, depots and factories;
+- buy and sell at that side's ports, airfields, depots, and factories;
 - pass its installations without its turrets firing on you;
 - see that side's supply runs in full on the Supply Runs LCD.
 
@@ -43,7 +43,7 @@ Reputation changes when you hurt NPC grids. Both changes apply to everyone in yo
 | Sinking a warship (corvette and up) | −250 | +125 |
 
 The 15-minute window means a machine gun earns no more than a single shell: what counts is *that* you attacked, not
-how fast you fire. Vanilla's own damage, grinding and stealing reputation are switched off; only the table above
+how fast you fire. Vanilla's own damage, grinding, and stealing reputation are switched off; only the table above
 applies.
 
 !!! warning "Strikes on your base"

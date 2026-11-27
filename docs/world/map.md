@@ -2,10 +2,10 @@
 
 !!! abstract "Quick facts"
     - One planet, **60 km across**, wrapping the Mediterranean from Gibraltar to Alexandria.
-    - Terrain comes from real elevation data, scaled down. The Alps, Atlas and Apennines are there; so is the desert.
+    - Terrain comes from real elevation data, scaled down. The Alps, Atlas, and Apennines are there; so is the desert.
     - North is up on every map of the planet.
     - Sea water comes from the Water Mod: waves of about ±1 m and a tide of up to 2 m that is strongest near the equator.
-    - Roads link the ports, airfields and depots.
+    - Roads link the ports, airfields, and depots.
 
 ## The planet
 
@@ -14,7 +14,7 @@ and scaled to Space Engineers proportions, so the coastlines and mountain ranges
 follow the real climate: Alpine rock and forest in the north, Mediterranean scrub and limestone along the coasts,
 savanna and sand in North Africa.
 
-There is atmosphere and gravity but no space content. The vanilla planets, encounters and cargo ships are switched
+There is atmosphere and gravity but no space content. The vanilla planets, encounters, and cargo ships are switched
 off (see [Mod List](../reference/mod-list.md)).
 
 ## Water
@@ -41,6 +41,6 @@ See [Territory and War Level](territory-war-level.md).
 
 ## Roads
 
-Roads were painted onto the planet between the ports, airfields and depots. NPC truck convoys and depot patrols
+Roads were painted onto the planet between the ports, airfields, and depots. NPC truck convoys and depot patrols
 drive them, so they are where you'll meet ground traffic. Off-road ground is passable but slopes get steep in the
 mountains.

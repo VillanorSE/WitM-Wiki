@@ -1,7 +1,7 @@
 # In the Air
 
 !!! abstract "Quick facts"
-    - Owned airfields send out fighters, attackers and bombers that roam their side's territory.
+    - Owned airfields send out fighters, attackers, and bombers that roam their side's territory.
     - From **WL4** fighters fly in **flights of three** that break off after losing two planes.
     - A plane goes down for good at **80% health**: it loses thrust and spins in.
     - Cargo planes carry supply between airfields. Shooting them down is a cheap way to hurt the enemy.
@@ -26,7 +26,7 @@ Re.2001 for Gray, MS.406 for Green. When a flight plane is shot down it radios t
 **two losses** the rest break off and head home, and despawn once they are 6 km away. Planes that escape give no
 points.
 
-Defenders, convoy raiders and carrier fighters fly alone and never break off.
+Defenders, convoy raiders, and carrier fighters fly alone and never break off.
 
 ## Crashes
 

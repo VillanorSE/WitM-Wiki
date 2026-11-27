@@ -4,7 +4,7 @@ Anchor
 :   One of the six permanent faction ports that territory grows from.
 
 Band
-:   A site's supply level: Low, Normal or Full.
+:   A site's supply level: Low, Normal, or Full.
 
 Battle Wreckage
 :   Ore looted from wrecks and destroyed NPC grids. Refines into Salvage Alloy.
@@ -19,7 +19,7 @@ MES
 :   Modular Encounters Systems, the mod that spawns and runs every NPC in the scenario.
 
 Player / NPC prefab
-:   Every hull exists twice: a `Player-WW2-` version that is sold, stolen or captured, and an `NPC-WW2-` version with
+:   Every hull exists twice: a `Player-WW2-` version that is sold, stolen, or captured, and an `NPC-WW2-` version with
     AI that fights.
 
 Reprisal
@@ -32,10 +32,10 @@ Salvaged Ordnance
 :   An ingot looted from bigger kills, needed for the heaviest naval shells.
 
 Ship Core
-:   The block that sets a grid's class, limits and top speed.
+:   The block that sets a grid's class, limits, and top speed.
 
 Special components
-:   Industrial, Military and Advanced Military Components. Made from salvage, never sold.
+:   Industrial, Military, and Advanced Military Components. Made from salvage, never sold.
 
 Territory
 :   The circle around each anchor, 5 to 35 km, that decides who owns airfields and depots and where NPCs spawn.

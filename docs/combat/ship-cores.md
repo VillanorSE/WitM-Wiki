@@ -1,9 +1,9 @@
 # Ship Cores and Block Limits
 
 !!! abstract "Quick facts"
-    - Every grid you build needs a **Ship Core**. The core sets its block count, PCU, dry mass, top speed and how
+    - Every grid you build needs a **Ship Core**. The core sets its block count, PCU, dry mass, top speed, and how
       many of each functional block it may carry.
-    - Utility cores, the Base, the Miner, Armored Car, Fighter and Corvette cores cost only basic components.
+    - Utility cores, the Base, the Miner, Armored Car, Fighter, and Corvette cores cost only basic components.
       Everything stronger needs [special components](../economy/salvage.md).
     - Over the mass cap the grid is slowed and penalised; blocks over a limit don't work.
     - Some cores are capped per player and per faction (a carrier: 1 per player, 3 per faction).
@@ -14,7 +14,7 @@ on your grid and it shows, on its HUD and terminal, how close you are to each li
 ## Cores at a glance
 
 Top speed is the cap for that class of grid. Max dry mass counts the build components of every block, not cargo,
-ammo or fuel, so it works as an **armour budget**: you choose between thick plate and more guns.
+ammo, or fuel, so it works as an **armour budget**: you choose between thick plate and more guns.
 
 | Core | Max blocks | Max PCU | Max dry mass | Top speed | Per player / faction | Special components to build |
 |---|---|---|---|---|---|---|
@@ -102,7 +102,7 @@ Naval cores may carry no navigation computers.
 
 ## Siege drives and safe zones
 
-The Heavy Cruiser, Battleship, Carrier and Outpost cores may carry one **siege drive**. Only the Base core may carry a
+The Heavy Cruiser, Battleship, Carrier, and Outpost cores may carry one **siege drive**. Only the Base core may carry a
 **safe zone** (fixed 200 m radius, no Zone Chips to build or run; a siege still costs chips).
 
 ## Speeds in this world

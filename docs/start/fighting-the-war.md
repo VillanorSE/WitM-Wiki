@@ -1,7 +1,7 @@
 # Fighting the War
 
 !!! abstract "Quick facts"
-    - The war is already running when you arrive. Gray and Green NPCs hold installations, sail, fly and drive inside
+    - The war is already running when you arrive. Gray and Green NPCs hold installations, sail, fly, and drive inside
       their own territory, whether or not you join in.
     - Almost everything the factions do runs on **supply**. Reduce enemy supply to weaken enemies, and protect friendly supply to grow allies.
 
@@ -14,10 +14,10 @@
 
 ## Installations
 
-The map is anchored by **permanent** sites: 7 ports, 7 airfields and 6 vehicle depots. None of them can be
+The map is anchored by **permanent** sites: 7 ports, 7 airfields, and 6 vehicle depots. None of them can be
 destroyed. The ports always belong to their side (Valencia stays neutral), but airfields and depots change hands as
 territory moves. Inside each side's territory, temporary sites come and go: factories, garages, hangars, the
-Manufactory and ammo depots.
+Manufactory, and ammo depots.
 
 Most installations have armed bot crews and call in defenders when a hostile player gets close. Pick your targets
 with that in mind:
@@ -32,7 +32,7 @@ More on the [Installations](../encounters/installations.md) page.
 ## At sea
 
 Golo **cargo ships** sail from each side's headquarters (La Spezia, Toulon) to its other ports and unload for
-5 minutes when they arrive. Each completed run delivers supply, adds territory points and pays the side's treasury,
+5 minutes when they arrive. Each completed run delivers supply, adds territory points, and pays the side's treasury,
 so sinking enemy cargo ships starves their ports.
 
 Escorting your own side's cargo ships is a fight you opt into. Stay within 1 km of one and the enemy starts sending
@@ -46,7 +46,7 @@ More on the [At Sea](../encounters/sea.md) page.
 
 ## In the air
 
-Owned airfields send fighters, attackers and bombers to roam their side's territory.
+Owned airfields send fighters, attackers, and bombers to roam their side's territory.
 
 **Cargo planes** (Ju 52, F.222) carry supply between airfields, and shooting them down is a cheap way to hurt the
 enemy.
@@ -85,6 +85,6 @@ attacks and its stores charge more. Keep your own side supplied and its stores s
 growing.
 
 Every first hit on an NPC grid also pushes the War Level up, and it never comes back down. The more everyone fights,
-the bigger the ships, the larger the flights and the better the vehicles in the stores.
+the bigger the ships, the larger the flights, and the better the vehicles in the stores.
 
 Read [Territory and War Level](../world/territory-war-level.md) next.

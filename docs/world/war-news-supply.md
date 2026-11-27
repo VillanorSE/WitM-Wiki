@@ -1,11 +1,11 @@
 # War News and Supply
 
 !!! abstract "Quick facts"
-    - Three LCD scripts come with the mod: **War News**, **War Score** and **Supply Runs**. Set any LCD to one of them.
-    - Every port, airfield and depot holds **supply**. Supply pays for that site's defenders and raids.
+    - Three LCD scripts come with the mod: **War News**, **War Score**, and **Supply Runs**. Set any LCD to one of them.
+    - Every port, airfield, and depot holds **supply**. Supply pays for that site's defenders and raids.
     - A site's supply band (**Low**, **Normal**, **Full**) changes its store prices and stock, and whether it can
       launch attacks.
-    - Supply arrives by cargo ship, truck convoy and cargo plane. Sinking or ambushing them starves the enemy.
+    - Supply arrives by cargo ship, truck convoy, and cargo plane. Sinking or ambushing them starves the enemy.
 
 ## LCD scripts
 
@@ -49,6 +49,6 @@ ships removed intact (for example when a route closes) give their load back.
 
 Spawning defenders and raids costs supply. At depots: 2 per armored car and 3 per tank for defense; 2 per armored
 car and 4 per tank for patrols (refunded if the patrol comes home intact). Airfields pay 3 for a defense spawn, 4
-for a single offensive plane, 5 for a bomber and 3 per plane in a group.
+for a single offensive plane, 5 for a bomber, and 3 per plane in a group.
 
 A site dropping into Low makes the news, and so does it recovering.

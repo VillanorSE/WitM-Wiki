@@ -2,7 +2,7 @@
 
 !!! abstract "Quick facts"
     - Last Workshop update: **1.2.2** (2026-11-08).
-    - The next update is planned as one batch with the Zara heavy cruiser, the Littorio-class battleship and the first
+    - The next update is planned as one batch with the Zara heavy cruiser, the Littorio-class battleship, and the first
       new planes.
 
 ## Next update (in development, not on the Workshop yet)
@@ -24,7 +24,7 @@
 
 **Systems**
 
-- Supply stores at airfields, depots, factories and the large hangar: rifles and ammo for sale, basic components
+- Supply stores at airfields, depots, factories, and the large hangar: rifles and ammo for sale, basic components
   bought. See [Stores and Prices](../economy/stores.md).
 - Captured NPC vehicles become wholly yours. See [Capturing Vehicles](../combat/capturing.md).
 - Strasbourg on sale at Green ports from War Level 5.

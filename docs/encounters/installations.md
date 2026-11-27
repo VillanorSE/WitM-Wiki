@@ -3,7 +3,7 @@
 !!! abstract "Quick facts"
     - **Permanent:** 7 ports (6 faction anchors plus neutral Valencia), 7 airfields, 6 vehicle depots. They can't be
       destroyed.
-    - **Temporary:** factories, garages, hangars, the Manufactory and ammo depots spawn inside their side's territory
+    - **Temporary:** factories, garages, hangars, the Manufactory, and ammo depots spawn inside their side's territory
       and eventually despawn.
     - Most installations are crewed by armed bots and call in defenders when a hostile player gets close.
     - Attacking a factory or ammo depot brings a reprisal raid. Garages and hangars don't.
@@ -24,7 +24,7 @@ and scramble defenders against hostile players. Each has a **Goods** store and a
 
 ### Airfields
 
-Gibraltar, Casablanca, Bizerte, Tripoli, Foggia, Benghazi and Tobruk. Ownership follows territory
+Gibraltar, Casablanca, Bizerte, Tripoli, Foggia, Benghazi, and Tobruk. Ownership follows territory
 ([rules](../world/territory-war-level.md#who-owns-an-airfield-or-depot)). An owned airfield:
 
 - sells its side's planes, more types as the War Level rises;
@@ -37,7 +37,7 @@ An unowned airfield sells nothing.
 
 ### Vehicle depots
 
-Benghazi, Tunis, Tobruk, Abruzzo, Mascara and Sirte. Ownership works exactly like airfields. An owned depot:
+Benghazi, Tunis, Tobruk, Abruzzo, Mascara, and Sirte. Ownership works exactly like airfields. An owned depot:
 
 - sells ground vehicles and has a supply store;
 - sends patrols along its roads every 45 to 60 minutes (Normal or Full supply only);

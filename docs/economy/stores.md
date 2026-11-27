@@ -11,10 +11,10 @@
 | Store | Where | Sells | Buys |
 |---|---|---|---|
 | Port Goods | All 7 ports | Ice, ingots, Salvaged Ordnance, tier 2 and 3 tools, medkits, powerkits, bottles, SMLE rifle and clips | Ingots, Salvaged Ordnance, 8 basic components |
-| Port Vehicles | Gray and Green ports | That side's trucks, armored cars, ships and cargo plane, by War Level | – |
+| Port Vehicles | Gray and Green ports | That side's trucks, armored cars, ships, and cargo plane, by War Level | – |
 | Valencia Vehicles | Valencia | The WL1 vehicles of both sides | – |
 | Airfield Vehicles | Owned airfields | That side's planes, by War Level | – |
-| Depot Vehicles | Owned depots | That side's trucks, armored cars and tanks | – |
+| Depot Vehicles | Owned depots | That side's trucks, armored cars, and tanks | – |
 | Factory | Plane and ground factories | The one vehicle that factory builds | – |
 | Hangar | Hangars | Ju 52 (Gray) or F.222 (Green) | – |
 | Manufactory | Manufactory | 16 basic components, SMLE rifle and clips | The same 16 components, 8 ores |
@@ -71,7 +71,7 @@ Prices below are base prices in Space Credits before the 115–135% (selling) or
     | Medical Component | 8,170 |
 
     The Manufactory sells and buys all of these. Ports and supply stores buy Steel Plate, Construction, Interior
-    Plate, Metal Grid, both tubes, Motor and Girder.
+    Plate, Metal Grid, both tubes, Motor, and Girder.
 
 === "Ores (Manufactory buys)"
 

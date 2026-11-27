@@ -8,7 +8,7 @@
 
 ## Joining
 
-Server address, password and play times are posted in the WitM Discord. This wiki is public, so they are kept there.
+Server address, password, and play times are posted in the WitM Discord. This wiki is public, so they are kept there.
 
 ## How the server differs from the published world
 

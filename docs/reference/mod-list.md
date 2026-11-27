@@ -8,11 +8,11 @@
 
 | Mod | Workshop | What it does here |
 |---|---|---|
-| WW2-WitM-MES | [3793633400](https://steamcommunity.com/sharedfiles/filedetails/?id=3793633400) | The encounters: ships, aircraft, ground vehicles, ports, airfields, garages and hangars. |
-| WW2-WitM-Framework | [3793621303](https://steamcommunity.com/sharedfiles/filedetails/?id=3793621303) | The scenario's rules: tech costs, components, stores and block settings. |
+| WW2-WitM-MES | [3793633400](https://steamcommunity.com/sharedfiles/filedetails/?id=3793633400) | The encounters: ships, aircraft, ground vehicles, ports, airfields, garages, and hangars. |
+| WW2-WitM-Framework | [3793621303](https://steamcommunity.com/sharedfiles/filedetails/?id=3793621303) | The scenario's rules: tech costs, components, stores, and block settings. |
 | WW2-WitM-Planet | [3788435958](https://steamcommunity.com/sharedfiles/filedetails/?id=3788435958) | The Mediterranean planet with its historic locations and roads. |
 
-## Weapons, blocks and vehicle parts
+## Weapons, blocks, and vehicle parts
 
 | Mod | Workshop | What it does here |
 |---|---|---|
@@ -94,4 +94,4 @@ These run the systems above; you never use them directly.
 | Sneaky Sounds - Quieter Tools | [1662953858](https://steamcommunity.com/sharedfiles/filedetails/?id=1662953858) | Quieter tools. |
 | Slimmer Characters | [3427773206](https://steamcommunity.com/sharedfiles/filedetails/?id=3427773206) | Slimmer character models. |
 
-Descriptions for Friendly Nametags, Suit Toggles, InFlightButtons, Sneaky Sounds, Slimmer Characters, Leak Finder and
+Descriptions for Friendly Nametags, Suit Toggles, InFlightButtons, Sneaky Sounds, Slimmer Characters, Leak Finder, and
