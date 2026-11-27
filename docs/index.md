@@ -28,9 +28,9 @@ to a warship, and the war around you escalates as everyone fights.
 
     ---
 
-    Your first hour, what changed recently, chat commands, and notes for MNGC players.
+    Your first hour, fighting the war, chat commands, and notes for MNGC players.
 
-    [Getting Started](start/getting-started.md) · [What's New](start/whats-new.md) ·
+    [Getting Started](start/getting-started.md) · [Fighting the War](start/fighting-the-war.md) ·
     [Chat Commands](start/chat-commands.md) · [Playing on MNGC](start/mngc.md)
 
 -   **The world**
