@@ -13,6 +13,7 @@ to a warship, and the war around you escalates as everyone fights.
 
 [Getting Started](start/getting-started.md){ .md-button .md-button--primary }
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3793633400){ .md-button }
+[What's New](start/whats-new.md){ .md-button }
 [Mod List](reference/mod-list.md){ .md-button }
 
 !!! info "Which version this wiki describes"
