@@ -52,7 +52,6 @@ also counts toward **Weapons**.
 **Basic weapons** are the lightest guns, such as machine guns, and have their own count. **Special** covers the
 remaining weapon blocks; the core's terminal lists which blocks fall in each group.
 
-
 | Core | Basic weapons | Weapons | Medium | Heavy | Capital | Special |
 |---|---|---|---|---|---|---|
 | Ground Utility | 1 | 0 | – | – | – | 0 |
@@ -76,7 +75,6 @@ remaining weapon blocks; the core's terminal lists which blocks fall in each gro
 
 ## Propulsion and other blocks
 
-
 | Core | Propellers | Engines | Wheels | Gyros | Batteries | Seats | Cargo | Safe zones | Siege drives |
 |---|---|---|---|---|---|---|---|---|---|
 | Ground Utility | – | 3 | 10 | 2 | 6 | 12 | 18 | 0 | 0 |
@@ -97,6 +95,8 @@ remaining weapon blocks; the core's terminal lists which blocks fall in each gro
 | Carrier | 10 | 16 | – | 6 | 10 | – | 48 | 0 | 1 |
 | Base | – | 3 | – | – | 8 | – | 24 | 1 | 0 |
 | Outpost | – | 1 | – | – | 2 | – | 8 | 0 | 1 |
+
+Naval cores may carry no navigation computers.
 
 – means the core sets no limit for that block. 0 means it may carry none.
 

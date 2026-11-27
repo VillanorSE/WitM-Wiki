@@ -11,7 +11,7 @@ nav = [
     { "Getting Started" = "start/getting-started.md" },
     { "What's New" = "start/whats-new.md" },
     { "Chat Commands" = "start/chat-commands.md" },
-    { "Playing on MNGC" = "start/mngc.md" },
+    { "Playing on the Server" = "start/playing-on-the-server.md" },
   ] },
   { "The world" = [
     { "The Map" = "world/map.md" },
@@ -46,6 +46,8 @@ nav = [
 
 [project.theme]
 language = "en"
+font.text = "Inter"
+font.code = "JetBrains Mono"
 features = [
   "content.tooltips",
   "content.code.copy",

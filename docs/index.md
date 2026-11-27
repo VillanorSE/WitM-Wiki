@@ -6,6 +6,8 @@ hide:
 
 # War in the Mediterranean
 
+![A battleship with red and white bow stripes fires its main guns as fighters climb overhead; tanks, a coastal gun and a crane stand on the cliffs, a destroyer passes below](assets/img/home-banner.jpg){ .witm-hero }
+
 A WW2 scenario for Space Engineers, set around the Mediterranean in the early 1940s. Two sides, <span class="gray-side">Gray</span>
 (Italy) and <span class="green-side">Green</span> (France), fight over sea lanes, airfields, depots and coastlines on a
 60 km planet shaped like the real Mediterranean. You pick a side, salvage, trade and capture your way up from a truck
@@ -27,10 +29,10 @@ to a warship, and the war around you escalates as everyone fights.
 
     ---
 
-    Your first hour, what changed recently, chat commands, and notes for MNGC players.
+    Your first hour, what changed recently, chat commands, and notes for the server.
 
     [Getting Started](start/getting-started.md) · [What's New](start/whats-new.md) ·
-    [Chat Commands](start/chat-commands.md) · [Playing on MNGC](start/mngc.md)
+    [Chat Commands](start/chat-commands.md) · [Playing on the Server](start/playing-on-the-server.md)
 
 -   **The world**
 

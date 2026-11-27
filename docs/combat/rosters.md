@@ -54,4 +54,4 @@ NPC only (not sold): Ro.43 and Loire 130 floatplanes.
 | Strasbourg | <span class="green-side">Green</span> | Battleship | 187,775,000 | 5 | Green ports |
 
 NPC only for now: Spica, Comandante Margottini, Le Triomphant, Trento, Émile Bertin, Algérie, Aquila, Béarn.
-Coming: the Zara heavy cruiser and a Littorio-class battleship for Gray.
+Coming: the Zara heavy cruiser and the battleship Littorio for Gray.

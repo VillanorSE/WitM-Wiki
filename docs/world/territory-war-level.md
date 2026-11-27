@@ -18,8 +18,8 @@
 | Rome (Civitavecchia port) | Oran |
 | Tripoli | Alexandria |
 
-Anchors are permanent and can't be captured. Each one keeps its own points total, so the war can go well for Gray
-around Tripoli and badly around La Spezia at the same time.
+Anchors are permanent and can't be captured. Each one keeps its own points total, so the war can go
+well for Gray around Tripoli and badly around La Spezia at the same time.
 
 ## Territory tiers
 
@@ -90,10 +90,13 @@ Each new level is announced once in chat.
 
 ### What each level brings
 
+Each ground vehicle unlocks at one War Level everywhere it appears. Depot stores are the exception: they sell
+their side's whole ground list at every level.
+
 | From | At sea | In the air | On the ground and in stores |
 |---|---|---|---|
 | WL1 | Corvettes, cargo ships | Single MS.406 and Re.2000 fighters | AB41, Panhard 178; Fiat 626, Renault AHN |
-| WL2 | Destroyers (Spica, Francesco Crispi, Bougainville) | D.520, Re.2001, Ba.65, Ro.43, Loire 130 | AB43, L6/40, R35; destroyers in port stores |
+| WL2 | Destroyers (Spica, Francesco Crispi, Bougainville) | D.520, Re.2001, Ba.65, Ro.43, Loire 130 | AB43, L6/40, R35; destroyers and the R35 in port stores |
 | WL3 | Comandante Margottini, Le Triomphant | Attackers and bombers: FC.20, SM.79, Potez 630, V-156-F | M13/40, Somua S35; bombers in airfield stores |
 | WL4 | Cruisers: Trento, Émile Bertin, Algérie | Fighters come in flights of three; Ba.65 in pairs | P26/40, Char B1 |
 | WL5 | Battleship Strasbourg, carriers Aquila and Béarn; destroyers in pairs, no more lone corvettes | | Strasbourg on sale at Green ports |

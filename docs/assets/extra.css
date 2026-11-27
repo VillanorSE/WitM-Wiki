@@ -1,22 +1,97 @@
-/* Mediterranean navy with a desert-sand accent */
+/* War in the Mediterranean: brand theme from the WitM Brand Guide v1.0 (1940s inked maritime poster,
+   "Iron & Sun" palette). Display: Barlow Condensed; subheads: Space Grotesk; body: Inter; numbers: JetBrains Mono. */
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@800&family=Space+Grotesk:wght@700&display=swap");
+
+:root {
+  --witm-twilight-navy: #0C1E33;
+  --witm-adriatic-deep: #103A5C;
+  --witm-hull-ink: #1B232C;
+  --witm-regia-steel: #465463;
+  --witm-bow-crimson: #CC3629;
+  --witm-sunset-terracotta: #D95D39;
+  --witm-sun-gold: #F2B138;
+  --witm-med-cerulean: #3394E6;
+  --witm-salt-white: #F4F1EA;
+}
+
+/* Light: warm salt-white page, navy header, crimson accent */
 :root, [data-md-color-scheme="default"] {
-  --md-primary-fg-color: #1f3a5f;
-  --md-primary-fg-color--light: #2c5282;
-  --md-primary-fg-color--dark: #14263f;
-  --md-accent-fg-color: #b7791f;
+  --md-primary-fg-color: var(--witm-twilight-navy);
+  --md-primary-fg-color--light: var(--witm-adriatic-deep);
+  --md-primary-fg-color--dark: #08142A;
+  --md-primary-bg-color: var(--witm-salt-white);
+  --md-accent-fg-color: var(--witm-bow-crimson);
+  --md-default-bg-color: #FAF8F3;
+  --md-typeset-color: var(--witm-hull-ink);
+  --md-typeset-a-color: var(--witm-adriatic-deep);
+  --md-footer-bg-color: var(--witm-twilight-navy);
+  --witm-heading: var(--witm-twilight-navy);
+  --witm-gray-side: var(--witm-bow-crimson);   /* Italy on light surfaces */
+  --witm-green-side: #1F6FB8;                  /* France: cerulean darkened for light surfaces */
 }
+
+/* Dark: twilight navy page, Adriatic cards, sun-gold links */
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #1a2f4d;
-  --md-primary-fg-color--light: #2c4a75;
-  --md-primary-fg-color--dark: #0f1d31;
-  --md-accent-fg-color: #e0b05c;
-  --md-default-bg-color: #151a22;
-  --md-typeset-a-color: #e0b05c;
+  --md-primary-fg-color: var(--witm-twilight-navy);
+  --md-primary-fg-color--light: var(--witm-adriatic-deep);
+  --md-primary-fg-color--dark: #08142A;
+  --md-primary-bg-color: var(--witm-salt-white);
+  --md-accent-fg-color: var(--witm-sunset-terracotta);
+  --md-default-bg-color: var(--witm-twilight-navy);
+  --md-default-fg-color: rgba(244, 241, 234, 0.92);
+  --md-default-fg-color--light: rgba(244, 241, 234, 0.70);
+  --md-typeset-color: rgba(244, 241, 234, 0.92);
+  --md-typeset-a-color: var(--witm-sun-gold);
+  --md-code-bg-color: var(--witm-adriatic-deep);
+  --md-footer-bg-color: #08142A;
+  --md-footer-bg-color--dark: #050D18;
+  --witm-heading: var(--witm-salt-white);
+  --witm-gray-side: #E06352;   /* Italy: Discord-checked UI colour */
+  --witm-green-side: #4CA3EB;  /* France: Discord-checked UI colour */
 }
-[data-md-color-scheme="default"] { --md-typeset-a-color: #2c5282; }
-.gray-side { color: #6b7280; font-weight: 600; }
-.green-side { color: #3f7d3a; font-weight: 600; }
-[data-md-color-scheme="slate"] .gray-side { color: #a3a9b4; }
-[data-md-color-scheme="slate"] .green-side { color: #7fbf78; }
-.md-typeset .grid.cards > ul > li { border-radius: 6px; }
-.md-typeset table:not([class]) { font-size: 0.72rem; }
+
+/* Header: navy band with a sun-gold rule */
+.md-header { background-color: var(--witm-twilight-navy); color: var(--witm-salt-white);
+  box-shadow: inset 0 -3px 0 var(--witm-sun-gold); }
+.md-header .md-search__button { background-color: rgba(244, 241, 234, 0.12); color: var(--witm-salt-white); }
+.md-header .md-search__button:hover { background-color: rgba(244, 241, 234, 0.2); }
+.md-header__topic:first-child { font-family: "Barlow Condensed", "Bahnschrift", sans-serif; font-weight: 800;
+  text-transform: uppercase; letter-spacing: 0.06em; }
+.md-tabs { background-color: var(--witm-adriatic-deep); }
+
+/* Headings: poster display for page titles, technical grotesk for sections */
+.md-typeset h1 { font-family: "Barlow Condensed", "Bahnschrift", sans-serif; font-weight: 800;
+  text-transform: uppercase; letter-spacing: 0.06em; color: var(--witm-heading); }
+.md-typeset h2, .md-typeset h3 { font-family: "Space Grotesk", "Segoe UI", sans-serif; font-weight: 700;
+  color: var(--witm-heading); }
+.md-typeset h2 { border-bottom: 2px solid var(--witm-sun-gold); padding-bottom: 0.15em; }
+
+/* Sides */
+.gray-side { color: var(--witm-gray-side); font-weight: 600; }
+.green-side { color: var(--witm-green-side); font-weight: 600; }
+/* on navy surfaces (table headers) always use the dark-surface colours */
+.md-typeset th .gray-side { color: #E06352; }
+.md-typeset th .green-side { color: #4CA3EB; }
+
+/* Tables: navy header, tabular numbers */
+.md-typeset table:not([class]) { font-size: 0.72rem; font-variant-numeric: tabular-nums; }
+.md-typeset table:not([class]) th { background-color: var(--witm-adriatic-deep); color: var(--witm-salt-white); }
+
+/* "Quick facts" boxes in sun gold */
+.md-typeset .admonition.abstract, .md-typeset details.abstract { border-color: var(--witm-sun-gold); }
+.md-typeset .abstract > .admonition-title, .md-typeset .abstract > summary {
+  background-color: rgba(242, 177, 56, 0.14); }
+.md-typeset .abstract > .admonition-title::before, .md-typeset .abstract > summary::before {
+  background-color: var(--witm-sun-gold); }
+
+/* Buttons: sun-gold primary */
+.md-typeset .md-button { border-radius: 4px; font-weight: 700; }
+.md-typeset .md-button--primary { background-color: var(--witm-sun-gold); border-color: var(--witm-sun-gold);
+  color: var(--witm-twilight-navy); }
+.md-typeset .md-button--primary:hover { background-color: var(--witm-sunset-terracotta);
+  border-color: var(--witm-sunset-terracotta); color: var(--witm-salt-white); }
+
+/* Home banner and page cards */
+.md-typeset img.witm-hero { display: block; width: 100%; height: auto; border-radius: 6px;
+  border: 2px solid var(--witm-hull-ink); margin: 0.4rem 0 1rem; }
+.md-typeset .grid.cards > ul > li { border-radius: 6px; border-top: 3px solid var(--witm-sun-gold); }
