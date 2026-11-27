@@ -9,7 +9,7 @@ nav = [
   { "Home" = "index.md" },
   { "Start here" = [
     { "Getting Started" = "start/getting-started.md" },
-    { "What's New" = "start/whats-new.md" },
+    { "Fighting the War" = "start/fighting-the-war.md" },
     { "Chat Commands" = "start/chat-commands.md" },
     { "Playing on the Server" = "start/playing-on-the-server.md" },
   ] },

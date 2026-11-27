@@ -53,4 +53,4 @@ You have three routes:
 - Attack a side's factory or ammo depot and it sends a reprisal flight after you. Build a base deep in hostile
   territory with bad standing and expect air raids.
 
-Read [Territory and War Level](../world/territory-war-level.md) next.
+Read [Fighting the War](fighting-the-war.md) next.

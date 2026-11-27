@@ -1,0 +1,30 @@
+{
+ "pages": {
+  "combat/capturing.md": "362b5962979eb23b2ba2661f68a141d48d26159b9cec5addd461d73e9b072c5e",
+  "combat/rosters.md": "cf4f2a84d556004f4cd553322905691288d044dcae86f67301f7bcaaabffb89c",
+  "combat/ship-cores.md": "412cfc8e0fafb8dd554705272e4fa5f4dc56273274819bc6489b3233f3bcb267",
+  "combat/weapons.md": "234e3e7c59a09c48c3e34e93ee5836dc7943ee6f9cfb6b83a786538d57a72123",
+  "economy/building.md": "758a1e65681285aaa59eb4ca85e806e0913b25ced2b3f410f67aaa9cdb8a9901",
+  "economy/salvage.md": "0cee25442d7bf291a4d71c6dba73b05e1c3c0937c4adfe26dfd7ab9759fe57fc",
+  "economy/stores.md": "fed40fb53255d07d31c14f6b41eff462b5d57dfe75b7a9ebdcf19b4b24f8b3e9",
+  "encounters/air.md": "6147141067996f30fbc96f39e11ac6f5db659e0b11a61e8ad285e482db1fdb76",
+  "encounters/ground.md": "05f0fabda23f4e73b6a2ef5bb47ce1ef106182fde1cac9e429d4236651ad9ea5",
+  "encounters/installations.md": "fe4059203e70ac2540e8ed192aa5860422eebb426fa540a7ad34ba6c9483bce7",
+  "encounters/sea.md": "02811a3c86bf2883c5998941cc4d468eae9282fb6e9cb77969a2455cd71d2a98",
+  "index.md": "610d9d4068b36af9da54c8c5b0621c535cc4a6100575d9db4b782072aa6f139d",
+  "reference/credits.md": "6b8b81573318d46cfa2bc2c3c4ba918ea05cb5710b4b92aee2a6a370b73f81d5",
+  "reference/glossary.md": "612b860ec7b387c24145c6d20e6cefd5cc75d4a1739a0b5285a413c65ea89677",
+  "reference/mod-list.md": "1ae635119da9027d952a2aa64c7c59ccf5cad2a9a2de8824dde8e635d61f3bed",
+  "reference/world-settings.md": "8e6852c3371b74479608a6df506763025b14581243ac2df1d993d6266f53aaad",
+  "start/chat-commands.md": "5ce3d864f524398dffb98af51863856e110be24eb45d83c08ac1ac7e0047fd11",
+  "start/fighting-the-war.md": "7d3923474963680cf1d5e5d81b22a052482ae0ed347bcc28b953455a8873df81",
+  "start/getting-started.md": "f4efd85859b3a81bd8de310b5fd806707fde96542e04614118cf2d8224a6c52e",
+  "start/playing-on-the-server.md": "f9c36ac1483fb637b7d0702280a20f69630d34b61643e7abfeb60c19d1a0f530",
+  "start/whats-new.md": "c196738e4af5ac83cee0b79bee4d0ab96e33b4fb6046d0d535d71764ade402db",
+  "world/factions.md": "db7f2e764c5d6df378bf97fb7d4f602261de1de547fd76ea63538b928b0643aa",
+  "world/map.md": "b112619b019a64f4ef135a642d5474ad434c307ed265081a1c98df2a06463292",
+  "world/territory-war-level.md": "51dae7552b4b36e1a370058ccbf5f96b687a0593c2dc76b5ab67690783f85302",
+  "world/war-news-supply.md": "7a19ce2b29450a878bb7f51209f161b91c9842ac41ebfa9b796a9d3eb060686a"
+ },
+ "nav": "b564b1b6336c20512961923ae597b0b0a01e210d4239429d3ef20a35e61f5f4f"
+}

@@ -15,6 +15,7 @@ to a warship, and the war around you escalates as everyone fights.
 
 [Getting Started](start/getting-started.md){ .md-button .md-button--primary }
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3793633400){ .md-button }
+[What's New](start/whats-new.md){ .md-button }
 [Mod List](reference/mod-list.md){ .md-button }
 
 !!! info "Which version this wiki describes"
@@ -29,9 +30,9 @@ to a warship, and the war around you escalates as everyone fights.
 
     ---
 
-    Your first hour, what changed recently, chat commands, and notes for the server.
+    Your first hour, fighting the war, chat commands, and notes for the server.
 
-    [Getting Started](start/getting-started.md) · [What's New](start/whats-new.md) ·
+    [Getting Started](start/getting-started.md) · [Fighting the War](start/fighting-the-war.md) ·
     [Chat Commands](start/chat-commands.md) · [Playing on the Server](start/playing-on-the-server.md)
 
 -   **The world**
