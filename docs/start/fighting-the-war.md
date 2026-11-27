@@ -19,6 +19,8 @@ destroyed. The ports always belong to their side (Valencia stays neutral), but a
 territory moves. Inside each side's territory, temporary sites come and go: factories, garages, hangars, the
 Manufactory, and ammo depots.
 
+Some installations start unowned by either faction. These become claimed when a faction's territory expands to cover it. They change hands as territories grow and shrink.
+
 Most installations have armed bot crews and call in defenders when a hostile player gets close. Pick your targets
 with that in mind:
 
@@ -31,16 +33,14 @@ More on the [Installations](../encounters/installations.md) page.
 
 ## At sea
 
-Golo **cargo ships** sail from each side's headquarters (La Spezia, Toulon) to its other ports and unload for
-5 minutes when they arrive. Each completed run delivers supply, adds territory points, and pays the side's treasury,
+Cargo ships sail from each side's headquarters (La Spezia, Toulon) to its other ports and unload for
+a few minutes when they arrive. Each completed run delivers supply, adds territory points, and pays the side's treasury,
 so sinking enemy cargo ships starves their ports.
 
 Escorting your own side's cargo ships is a fight you opt into. Stay within 1 km of one and the enemy starts sending
-raiders, one wave every 18 to 25 minutes. With no escort, no raids come.
+raiders.
 
-**Warships** spawn inside their side's territory and hold position until something comes within range: about
-1.5 km for small ships, up to about 9 km for the largest. They get bigger as the War Level rises, with destroyers
-from WL2, cruisers from WL4, and the battleship and carriers from WL5. Sinking one hits its side hard.
+**Warships** spawn inside their side's territory and hold position until something comes within range. The class of warship you will encounter gets bigger as the War Level rises, starting with corvettes and working up to battleships and carriers. Sinking one hits its side hard.
 
 More on the [At Sea](../encounters/sea.md) page.
 
@@ -53,8 +53,7 @@ enemy.
 
 Air reprisals and base strikes:
 
-- **Base strikes:** from WL2, bases inside a side's territory belonging to players at −1000 standing or worse with
-  that side can be bombed.
+- **Base strikes:** bases inside a side's territory belonging to players at war with that side can be bombed.
 - **Reprisals:** attack a factory or ammo depot and a strike comes for you at any War Level.
 
 Both are announced on War News with a countdown GPS, so you get a warning.
@@ -63,17 +62,13 @@ More on the [In the Air](../encounters/air.md) page.
 
 ## On the ground
 
-Ground fighting centers on the **vehicle depots**. Each owned depot sends a patrol along its roads every 45 to 60
-minutes and sends defenders when a hostile player comes within 2 km. In a fight they leave the road and circle you
-at roughly 150 to 250 m.
+Ground fighting centers on the **vehicle depots**. Each depot owned by a faction sends a patrol along its roads periodically and sends defenders when a hostile player comes near.
 
 **Truck convoys** drive supply from the ports to their side's airfields and depots. Your own side's columns show on
-the Supply Runs LCD with a GPS on the lead truck, so you can escort them. Disable a truck in an enemy column and
-every truck behind it stops too.
+the Supply Runs LCD with a GPS on the lead truck, so you can escort them. Disable a truck in an enemy column may stop the convoy.
 
 A crippled NPC vehicle stops for good, but its turrets keep firing, so knock out the guns before you walk up.
-After that, salvage it or [capture](../combat/capturing.md) it. On foot, expect armed bots guarding most
-installations.
+After that, salvage it or [capture](../combat/capturing.md) it. On foot, expect armed bots guarding most installations.
 
 More on the [On the Ground](../encounters/ground.md) page.
 
@@ -84,7 +79,6 @@ between airfields by **plane**. Cut any link and the sites downstream run short:
 attacks and its stores charge more. Keep your own side supplied and its stores stay cheap and its territory keeps
 growing.
 
-Every first hit on an NPC grid also pushes the War Level up, and it never comes back down. The more everyone fights,
-the bigger the ships, the larger the flights, and the better the vehicles in the stores.
+Every first hit on an NPC grid also pushes the points that control War Level up, and it never comes back down. The more everyone fights, the bigger the ships, the larger the flights, and the better the vehicles in the stores.
 
 Read [Territory and War Level](../world/territory-war-level.md) next.

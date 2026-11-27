@@ -23,6 +23,28 @@
 | P26/40 | <span class="gray-side">Gray</span> | Heavy tank | 4,225,000 | 4 | Depots, factories |
 | Char B1 | <span class="green-side">Green</span> | Heavy tank | 4,225,000 | 4 | Depots, factories |
 
+### War Level 1 ground vehicles
+
+<div class="grid cards" markdown>
+
+- ![A Fiat 626 truck in olive and gray with a canvas-covered cargo bed](../assets/img/rosters-fiat-626.jpg)
+
+    **Fiat 626**, <span class="gray-side">Gray</span>: utility and respawn truck.
+
+- ![A Renault AHN truck in dark green with a sand-colored canvas cargo bed](../assets/img/rosters-renault-ahn.jpg)
+
+    **Renault AHN**, <span class="green-side">Green</span>: utility and respawn truck.
+
+- ![An AB41 wheeled armored car in desert sand with a small turret](../assets/img/rosters-ab41.jpg)
+
+    **AB41**, <span class="gray-side">Gray</span>: armored car.
+
+- ![A Panhard 178 four-wheeled armored car in red and gray camouflage with a turret gun](../assets/img/rosters-panhard-178.jpg)
+
+    **Panhard 178**, <span class="green-side">Green</span>: armored car.
+
+</div>
+
 ## Air
 
 | Plane | Side | Class | Base price | From | Sold at |
