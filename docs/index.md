@@ -10,7 +10,7 @@ hide:
 
 A WW2 scenario for Space Engineers, set around the Mediterranean in the early 1940s. Two sides, <span class="gray-side">Gray</span>
 (Italy) and <span class="green-side">Green</span> (France), fight over sea lanes, airfields, depots and coastlines on a
-60 km planet shaped like the real Mediterranean. You pick a side, salvage, trade and capture your way up from a truck
+planet shaped like the real Mediterranean. You pick a side, salvage, trade and capture your way up from a truck
 to a warship, and the war around you escalates as everyone fights.
 
 [Getting Started](start/getting-started.md){ .md-button .md-button--primary }
