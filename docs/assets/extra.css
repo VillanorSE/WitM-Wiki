@@ -27,7 +27,7 @@
   --md-footer-bg-color: var(--witm-twilight-navy);
   --witm-heading: var(--witm-twilight-navy);
   --witm-gray-side: #4D5A68;   /* Gray side on light surfaces: dark steel (D-095) */
-  --witm-green-side: #357035;  /* Green side on light surfaces: dark field green */
+  --witm-green-side: #4B5320;  /* Green side on light surfaces: WW2 olive drab */
 }
 
 /* Dark: twilight navy page, Adriatic cards, sun-gold links */
@@ -47,7 +47,7 @@
   --md-footer-bg-color--dark: #050D18;
   --witm-heading: var(--witm-salt-white);
   --witm-gray-side: #A9B4C2;   /* Gray side on dark surfaces: light steel, also the Discord role colour */
-  --witm-green-side: #8CC084;  /* Green side on dark surfaces: sage field green, also the Discord role colour */
+  --witm-green-side: #A3A86B;  /* Green side on dark surfaces: faded olive drab, also the Discord role colour */
 }
 
 /* Header: navy band with a sun-gold rule */
@@ -71,7 +71,7 @@
 .green-side { color: var(--witm-green-side); font-weight: 600; }
 /* on navy surfaces (table headers) always use the dark-surface colours */
 .md-typeset th .gray-side { color: #A9B4C2; }
-.md-typeset th .green-side { color: #8CC084; }
+.md-typeset th .green-side { color: #A3A86B; }
 
 /* Tables: navy header, tabular numbers */
 .md-typeset table:not([class]) { font-size: 0.72rem; font-variant-numeric: tabular-nums; }
