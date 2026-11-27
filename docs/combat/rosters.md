@@ -17,7 +17,7 @@
 | Panhard 178 | <span class="green-side">Green</span> | Armored car | 40,000 | 1 | Green ports, Valencia, depots, factories |
 | AB43 | <span class="gray-side">Gray</span> | Armored car | 2,775,000 | 2 | Factories |
 | L6/40 | <span class="gray-side">Gray</span> | Light tank | 1,400,000 | 2 | Depots, factories |
-| Renault R35 | <span class="green-side">Green</span> | Light tank | 2,100,000 | 1–2 | Green ports, depots, factories |
+| Renault R35 | <span class="green-side">Green</span> | Light tank | 2,100,000 | 2 | Green ports, depots, factories |
 | M13/40 | <span class="gray-side">Gray</span> | Medium tank | 5,500,000 | 3 | Depots, factories |
 | Somua S35 | <span class="green-side">Green</span> | Medium tank | 5,525,000 | 3 | Depots, factories |
 | P26/40 | <span class="gray-side">Gray</span> | Heavy tank | 4,225,000 | 4 | Depots, factories |
