@@ -1,10 +1,10 @@
 # Chat Commands
 
 !!! abstract "Quick facts"
-    - Players use two commands: `/alliance` (pick a side) and `/assist` (plane Flight Assist).
-    - Every `/witm` command is for admins only.
+    - WitM's own commands start with `/`: `/alliance` (pick a side) and `/assist` (plane Flight Assist).
+    - Server commands start with `!`: fix a stuck ship, claim your vote reward, list your grids, and more.
 
-## Player commands
+## WitM commands
 
 | Command | Who | What it does |
 |---|---|---|
@@ -17,17 +17,22 @@
 
 `/flightassist` works the same as `/assist`. Flight Assist is explained on [Building](../economy/building.md#flight-assist).
 
-## Admin commands
+## Server commands
+
+The server runs three plugins with commands for players. Type them in chat.
 
 | Command | What it does |
 |---|---|
-| `/assist server on` / `off` | Turn Flight Assist on or off for everyone. |
-| `/witm refresh` | Dry run: what a refresh of the permanent installations would do. Changes nothing. |
-| `/witm refresh go [all\|ports\|airfields\|depots\|<site>]` | Replace the live port, airfield, or depot grids with fresh spawns, one site at a time. Sites with player grids or players nearby are skipped. |
-| `/witm refresh status` / `cancel` | Progress of a running refresh, or stop it. |
-| `/witm supply` | Table of every port, airfield, and depot: stock, band, owner, and convoy routes. |
-| `/witm supply set <site> <n>` | Set a site's Home stock. |
-| `/witm supply onward <site> <n>` | Set a port's Onward stock. |
-| `/witm supply hour` | Run one hourly supply tick now. |
+| `!fixship` | Fix the stuck ship you are looking at: the server stops it and puts it back in place. Works on grids you own most of. |
+| `!fixship <name>` | The same, for a ship you name. |
+| `!reward` | Claim your reward after voting for the server. |
+| `!grids list` | List the grids you own at least half of. |
+| `!motd` | Show the server's message of the day. |
+| `!w <player>` | Send a private message to another player. |
+| `!entities refresh` | Reload the grids and objects around you, if something looks out of sync. |
+| `!vote <name>` | Start a vote the server has set up. `!yes` and `!no` cast your vote; `!vote cancel` stops it. |
+
+`!fixship` fails while a connector or landing gear is locked, or while anyone is sitting in a seat or cryo pod on the
+ship. Unlock and get everyone out first. It has a cooldown between uses.
 
 The mods underneath (MES, Ship Core, WeaponCore, Water Mod) have their own commands; see their Workshop pages.
